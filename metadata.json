@@ -1,0 +1,6 @@
+{
+  "name": "Buytiful.in — Premium Fashion E-Commerce",
+  "description": "Premium, modern clothing shopping destination for contemporary fashion in India. Curated apparel for men and women with effortless checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
